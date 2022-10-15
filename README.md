@@ -1,5 +1,5 @@
 # minecraftjava-mods
-My Minecraft Java mods! I made these on mcreator 2022.1! <br />
+My Minecraft Java mods! I made these on MCreator 2022.1! <br />
 # Requirements
 These mods require: <br />
 - Forge Version 1.18.2 (40.1.0) <br />
